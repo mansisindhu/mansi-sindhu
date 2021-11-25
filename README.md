@@ -7,7 +7,7 @@ I'm a passionate full stack web developer from india. My passion for software li
 
 🌱 I’m currently learning **Data Structures and Algorithms** and **MERN Stack**.
 
-<a href="https://mansi.dev.voyage/">
+<a href="https://mansi.dev.voyage/" target="_blank" rel="noopener noreferrer">
     Visit my website
 </a>
 
