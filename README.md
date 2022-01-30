@@ -8,7 +8,7 @@ of an organization that helps me grow.
 <br/>
 <br/>
 
-🌱 I’m currently learning **Data Structures and Algorithms** and **MERN Stack**.
+🌱 I’m currently working on **<a href="https://dev.voyage/" target="_blank" rel="noopener noreferrer">Dev Voyage</a>**
 
 <a href="https://mansi.dev.voyage/" target="_blank" rel="noopener noreferrer">
     Visit my website
